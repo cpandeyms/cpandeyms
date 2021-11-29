@@ -1,0 +1,13 @@
+{
+	"name": "AzureDataLakeStore1",
+	"properties": {
+		"annotations": [],
+		"type": "AzureDataLakeStore",
+		"typeProperties": {
+			"dataLakeStoreUri": "https://cpandeyms.azuredatalakestore.net/webhdfs/v1",
+			"tenant": "72f988bf-86f1-41af-91ab-2d7cd011db47",
+			"subscriptionId": "82931e73-05c6-4da8-a666-bc4a7dd1bd3e",
+			"resourceGroupName": "Data-AI-Models"
+		}
+	}
+}
